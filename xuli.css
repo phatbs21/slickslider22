@@ -1,0 +1,33 @@
+/* chỉnh màu nền */
+body {
+    background: #ccc;
+}
+/* chỉnh chữ */
+.main {
+    font-family: Arial;
+    display: block;
+    text-align: center;
+}
+/* giới hạn chiều cao, chiều rộng và nơi hiển thị ảnh (ảnh trên) */
+.gioihananh {
+    width: 1000px;
+    height: 400px;
+    margin: 0 auto;
+}
+/* giới hạn chiều cao, chiều rộng và nơi hiển thị ảnh (ảnh dưới) */
+.gioihanbang2 {
+    width: 1000px;
+    height: 200px;
+    margin: 0 auto;
+}
+/* tổng quát: giới hạn bảng hiển thị ảnh dưới*/
+.gioihanbang {
+    width: 330px;
+    height: 200px;
+}
+/* tổng quát: giới hạn bảng hiển thị ảnh trên*/
+.gioihananh2 {
+    width: 1000px;
+    height: 500px;
+    margin: 0 auto;
+}
